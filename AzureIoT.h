@@ -10,7 +10,7 @@
  * - Interact with your MQTT client,
  * - Perform data manipulations (HMAC SHA256 encryption, Base64 decoding and encoding),
  * - Receive the callbacks for Plug and Play properties and commands.
- * - Karl was here kreischl68panicbutton
+ * - Karl was here kreischl68panicbutton rev2
  */
 
 #ifndef AZURE_IOT_H
